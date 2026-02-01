@@ -18,8 +18,9 @@
     "x-requested-with": "com.app.video"
   },
    {
-    "video_url": "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p_ClearKey.mpd",
+    "video_url": "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p_ClearKey.mpd|drm-info=clearkey|nrQFDeRLSAKTLifXUIPiZg:FmY0xnWCPCNaSpRG-tUuTQ",
     "drm-info": "clearkey|nrQFDeRLSAKTLifXUIPiZg:FmY0xnWCPCNaSpRG-tUuTQr"
   }
 ]
+
 
