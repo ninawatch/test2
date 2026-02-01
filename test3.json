@@ -17,8 +17,13 @@
     "_bn": "1212",
     "x-requested-with": "com.app.video"
   },
-   {
-    "video_url": "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p_ClearKey.mpd|drm-info=clearkey|nrQFDeRLSAKTLifXUIPiZg:FmY0xnWCPCNaSpRG-tUuTQ",
-    "drm-info": "clearkey|nrQFDeRLSAKTLifXUIPiZg:FmY0xnWCPCNaSpRG-tUuTQr"
+  {
+    "name": "قناة مشفرة (ClearKey DRM)",
+    "url": "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p_ClearKey.mpd",
+    "drm": {
+      "type": "clearkey",
+      "key": "nrQFDeRLSAKTLifXUIPiZg:FmY0xnWCPCNaSpRG-tUuTQr"
+    }
   }
 ]
+
