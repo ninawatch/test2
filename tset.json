@@ -1,4 +1,20 @@
-{
-"video_url":"https://live-hls-web-aja.getaj.net/AJA/04.m3u8",
-"referer":"https://google.fr"
-}
+[
+  {
+    "video_url": "https://live-hls-web-aja.getaj.net/AJA/04.m3u8",
+    "origin": "https://google.fr",
+    "referer": "https://google.fr/",
+    "cookie": "mama=true;valdo;fbana=hna;tata=naba",
+    "httpcanary": "false",
+    "cast": "false",
+    "name": "HD"
+  },
+  {
+    "video_url": "https://live-hls-web-aja.getaj.net/AJA/04.m3u8",
+    "referer": "https://google.fr",
+    "httpcanary": "false",
+    "deviceroot": "false",
+    "name": "SD",
+    "_bn": "1212",
+    "x-requested-with": "com.app.video"
+  }
+]
