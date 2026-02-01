@@ -5,5 +5,12 @@
         "httpcanary": "true",
         "cast": "false",
         "deviceroot": "false"
+    },
+    {
+        "video_url": "https:\/\/www.youtube.com\/watch?v=UMyIn90AYvs",
+        "name": "YT",
+        "player-type": "web2exo",
+        "Emulator+": "false",
+        "vpn": "true"
     }
 ]
