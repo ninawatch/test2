@@ -1,8 +1,8 @@
 [
     {
-        "video_url": "http:\/\/test.com\/video.m3u8",
-        "name": "Test Quality",
-        "httpcanary": "false",
+        "video_url": "https:\/\/live-hls-web-aja.getaj.net\/AJA\/04.m3u8",
+        "name": "HD",
+        "httpcanary": "true",
         "cast": "false",
         "deviceroot": "false"
     }
