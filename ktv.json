@@ -1,16 +1,1 @@
-[
-    {
-        "video_url": "https:\/\/live-hls-web-aja.getaj.net\/AJA\/03.m3u8",
-        "name": "HD",
-        "httpcanary": "true",
-        "cast": "false",
-        "deviceroot": "false"
-    },
-    {
-        "video_url": "https:\/\/www.youtube.com\/watch?v=UMyIn90AYvs",
-        "name": "YT",
-        "player-type": "web2exo",
-        "Emulator+": "false",
-        "vpn": "true"
-    }
-]
+[]
